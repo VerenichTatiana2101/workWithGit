@@ -75,3 +75,4 @@ git config --global user.email ваша почта@example.com
 ```
 git branch <имя новой ветки>
 ```
+Список веток в репозитории можно посмотреть с помощью команды `git branch`
